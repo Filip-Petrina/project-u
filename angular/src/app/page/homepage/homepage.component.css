@@ -1,0 +1,11 @@
+section.home-intro {
+  background: url('../../../assets/Image.png') no-repeat center bottom;
+  background-size: cover;
+  min-height: 580px;
+  margin-bottom: 50px;
+}
+section.home-title {
+  text-align: center;
+  font-size: 70px;
+  color: #222222;
+}
