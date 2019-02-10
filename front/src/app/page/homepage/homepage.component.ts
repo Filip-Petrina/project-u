@@ -12,14 +12,9 @@ import { environment } from '@env/environment';
 export class HomepageComponent implements OnInit {
 
 
-	constructor(
-
-	) {
-
-	}
+	constructor() {}
 
 	ngOnInit() {
-    console.log('hompage init');
 	}
 
 
