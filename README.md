@@ -1,6 +1,6 @@
 # Project U
 
-This project consists of an [Angular 7](https://angular.io/) powered front-end and an [Express.js](https://expressjs.com/) powere back-end. It was created for testing purposes.
+This project consists of an [Angular 7](https://angular.io/) powered front-end and an [Express.js](https://expressjs.com/) powered back-end. It was created for testing purposes.
 
 ## Angular
 
